@@ -1,8 +1,5 @@
-config.php
-routes.php
-schedule-*
-compiled.php
-services.json
-events.scanned.php
-routes.scanned.php
-down
+phpunit.xml
+composer.lock
+build
+vendor
+coverage.clover
